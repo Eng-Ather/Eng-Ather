@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Attendance Portal**
 
-- 💬 Ask me about **WEB & App, Desktop App, Custom Software Solution**
+- 💬 Ask me about **Mobile Application, Dynamic Websites, Desktop App, Custom Software Solution**
 
 - 📫 How to reach me **engr.ather.93@gmail.com**
 
