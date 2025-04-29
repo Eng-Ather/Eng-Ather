@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Engr-Ather</h1>
-<h3 align="center">A dedicated Full Stack Developer with a strong passion for crafting robust enterprise solutions</h3>
+<h3 align="center">An Engineer From Karachi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-ather&label=Profile%20views&color=0e75b6&style=flat" alt="eng-ather" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-ather" alt="eng-ather" /></a> </p>
 
-- 🔭 I’m currently working on **CRM (for UK based Startup)**
-
-- 🌱 I’m currently learning **C# (dot-net)**
+- 🔭 I’m currently working on **Doctor Appoitment System (for Life Line Hospital)**
 
 - 👯 I’m looking to collaborate on **Attendance Portal**
 
